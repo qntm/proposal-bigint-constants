@@ -40,7 +40,7 @@ Therefore, for symmetry, this proposal introduces a corresponding collection of 
 * `BigInt.LOG10E` = 0
 * `BigInt.LOG2E` = 1
 * `BigInt.PI` = 3
-* `BigInt.SQRT1_2` = 0
+* `BigInt.SQRT1_2` = 1
 * `BigInt.SQRT2` = 1
 
 ### But seriously though
